@@ -1,4 +1,7 @@
-# HDI_Highlighter
+# HDI Highlighter
+
+## Description 
+
 Reading helper for pharmacological interaction articles
 
 HDI-Highlighter is a tool allowing user to highlight PDFs of scientific articles about Herb-Drug Interactions (HDI).
@@ -11,3 +14,11 @@ It provides a visual assistance by highlighting terms of interests, including:
 - Words implying a variation in a parameter
 
 HDI-Highlighter is a Flask webapp using automatons generated using Unitex/Gramlab (https://github.com/UnitexGramLab/), and it's Python bindings (https://github.com/patwat/python-unitex)
+
+## Requirements
+
+- Python 3
+- Unidecode
+- Flask
+- Flaskwebgui
+- Gunicorn
