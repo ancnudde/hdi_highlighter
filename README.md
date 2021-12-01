@@ -18,6 +18,7 @@ HDI-Highlighter is a Flask webapp using automatons generated using Unitex/Gramla
 ## Requirements
 
 - Python 3
+- PyMuPDF
 - Unidecode
 - Flask
 - Flaskwebgui
