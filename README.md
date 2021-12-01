@@ -13,7 +13,18 @@ It provides a visual assistance by highlighting terms of interests, including:
 - Percentages
 - Words implying a variation in a parameter
 
-HDI-Highlighter is a Flask webapp using automatons generated using Unitex/Gramlab (https://github.com/UnitexGramLab/), and it's Python bindings (https://github.com/patwat/python-unitex)
+## PDF extraction
+
+To be able to process the content of a PDF file, the first task is to extract it from the file. This is a non-trivial task, as PDF are not designed to be reworked. Fortunately, a Python module named "PyMuPDF" (https://github.com/pymupdf/PyMuPDF) allows for an easy extraction. This package provides a solution to extract content of the file in a formatted way. One options allows to extract it in HTML format, what is interesting for us as:
+
+1. HTML files are handeld directly by Unitex without any preprocessing step required, in exchange of a longer processing time
+2. PDF-Highlighter being a webapp, HTML can be directly displayed without any need to rework it.
+
+PyMuPDF provides a nearly perfect extraction of the PDF, even though some imprefections might appear in different step of the highlighting process. 
+
+## Expressions highlighting
+
+HDI-Highlighter uses automatons generated using Unitex/Gramlab (https://github.com/UnitexGramLab/) and incorporated in Python script using it's Python bindings (https://github.com/patwat/python-unitex) to extract content. 
 
 ## Requirements
 
