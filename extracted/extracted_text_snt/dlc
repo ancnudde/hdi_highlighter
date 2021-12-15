@@ -1,0 +1,20 @@
+front matter,.N+XN+Conc+z1:s
+false positive,.A+z1
+false positive,.N+XN+z1:s
+heart failure,.N+XN+z1:s
+potassium chloride,.N+XN+Conc+z1:s
+tea spoons,tea spoon.N+XN+z1:p
+hot water,.N+XN+Conc+z1:s
+high-performance liquid chromatography,.N+3XN+z1:s
+liquid chromatography,.N+XN+z1:s
+E-mail,.N+XN+z1:s
+in vitro,.A+2X+z1
+distilled water,.N+XN+Conc+z1:s
+test results,test result.N+XN+z1:p
+in vivo,.A+2X+z1
+therapeutic drug,.N+XN+Conc+z1:s
+decision making,.N+XN+z1:s
+inhibitory effect,.N+XN+z1:s
+distilled water,.N+XN+Conc+z1:s
+potassium chloride,.N+Drug
+ng/ml,.N+CONC

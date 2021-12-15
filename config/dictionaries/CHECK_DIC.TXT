@@ -1,0 +1,38 @@
+-----------------------------------
+-------------  Stats  -------------
+-----------------------------------
+File: /home/anthony/ownCloud/pdf_highlighter/grobid/config/dictionaries/herb_parts.dic
+Type: DELAF
+30 lines read
+30 simple entries for 14 distinct lemmas
+0 compound entry for 0 distinct lemma
+-----------------------------------
+----  All chars used in forms  ----
+-----------------------------------
+a (0061)
+b (0062)
+c (0063)
+d (0064)
+e (0065)
+f (0066)
+h (0068)
+i (0069)
+j (006A)
+l (006C)
+m (006D)
+n (006E)
+o (006F)
+p (0070)
+r (0072)
+s (0073)
+t (0074)
+u (0075)
+w (0077)
+x (0078)
+-------------------------------------------------------------
+----    1 grammatical/semantic code used in dictionary  -----
+-------------------------------------------------------------
+PLANTPART
+-----------------------------------------------------
+----    0 inflectional code used in dictionary  -----
+-----------------------------------------------------

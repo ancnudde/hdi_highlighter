@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1887 914
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>" 278 441 6 7 9 12 13 14 11 
+"" 1286 447 0 
+":change_value" 761 296 1 10 
+":concentrations" 761 531 1 10 
+":entities" 761 599 1 10 
+":study" 761 475 1 10 
+"<PLANTPART>" 761 418 1 10 
+"<E>/<span class=\"part highlight\">" 641 418 1 6 
+"<MODIF>" 761 354 1 10 
+"<E>/<span class=\"modif highlight\">" 641 354 1 8 
+"<E>/</span>" 1225 447 1 1 
+"<E>/<span class=\"entity highlight\">" 641 600 1 4 
+"<E>/<span class=\"change highlight\">" 641 296 1 2 
+"<E>/<span class=\"study highlight\">" 641 475 1 5 
+"<E>/<span class=\"concentration highlight\">" 641 531 1 3 

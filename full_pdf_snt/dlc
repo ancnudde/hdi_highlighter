@@ -1,0 +1,59 @@
+interstitial pneumonitis,.N+XN+z1:s
+drug interactions,drug interaction.N+XN+z1:p
+medical attention,.N+XN+z1:s
+dry cough,.N+XN+z1:s
+X-ray,.N+XN+Conc+z1:s
+x-ray,.N+XN+z1:s
+lung disease,.N+XN+z1:s
+ground-glass,.A+z1
+dilated cardiomyopathy,.N+XN+z1:s
+left ventricular,.A+z1
+ejection fraction,.N+XN+z1:s
+myocardial biopsy,.N+XN+z1:s
+cytochrome P450,.N+XN+Conc+z1:s
+lung diseases,lung disease.N+XN+z1:p
+second-generation,.A+z1
+Heart failure,.N+XN+z1:s
+heart failure,.N+XN+z1:s
+treatment unit,.N+XN+z1:s
+E-mail,.N+XN+z1:s
+financial support,.N+XN+z1:s
+heart failure,.N+XN+z1:s
+weight loss,.N+XN+z1:s
+alcohol use,.N+XN+z1:s
+drug use,.N+XN+z1:s
+medical examinations,medical examination.N+XN+z1:p
+heart disease,.N+XN+z1:s
+CT scans,CT scan.N+XN+z1:p
+ground glass,.N+XN+Conc+z1:s
+ventricular tachycardia,.N+XN+z1:s
+eosinophilic pneumonia,.N+XN+z1:s
+standard dosing,.N+XN+z1:s
+clinical examination,.N+XN+z1:s
+jugular vein,.N+XN+z1:s
+myocardial biopsies,myocardial biopsy.N+XN+z1:p
+test results,test result.N+XN+z1:p
+Epstein-Barr virus,.N+2XN+z1:s
+autoimmune disease,.N+XN+z1:s
+organic chemistry,.N+XN+z1:s
+racemic mixture,.N+XN+Conc+z1:s
+cellular processes,cellular process.N+XN+z1:p
+cell membrane,.N+XN+Conc+z1:s
+cell cycle,.N+XN+z1:s
+permanent damage,.N+XN+z1:s
+sodium channels,sodium channel.N+XN+Conc+z1:p
+herbal drugs,herbal drug.N+XN+z1:p
+light microscopy,.N+XN+z1:s
+molecular structure,.N+XN+z1:s
+eosinophilic pneumonia,.N+XN+z1:s
+respiratory failure,.N+XN+z1:s
+cardiogenic shock,.N+XN+z1:s
+guinea pig,.N+XN+Anl+z1:s
+in vitro,.A+2X+z1
+brown alga,.N+XN+z1:s
+lung diseases,lung disease.N+XN+z1:p
+antidepressant drug,.N+XN+Conc+z1:s
+centella asiatica,.N+Herb
+fucus vesiculosus,.N+Herb
+cyp2d6,2d6.TAR
+cyp3a4,3a4.TAR

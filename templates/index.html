@@ -1,0 +1,322 @@
+<!doctype html>
+<html>
+
+    
+    <head>
+	<title>HDI Highlighter</title>
+	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<link rel="stylesheet"
+	      href= "{{url_for('static',filename='css/style.css')}}">
+	<script type="text/javascript"
+		      src="{{url_for('static', filename='js/pdf_highlighter.js')}}">
+	</script>
+    </head>
+
+    
+    <body>
+	
+	<div class="app">
+
+	    <!-- Left pane of the app -->
+	    <div class="left-pane">
+
+		
+		<!-- Import functions -->
+		<button id="upload"
+			    class="import-button"
+			    style="margin-top:120px">
+		    Upload PDF
+		</button>
+		
+		<div class="import-label">
+		    <p id="filename">
+			No PDF selected
+		    </p>
+		</div>
+		
+		<form method="POST" action="" enctype="multipart/form-data">
+		    <input type="file" name="file"
+			   id="file" style="display: none">
+		    <input type="checkbox" id="rmv_img" name="rmv_img">
+		    <label for="rmv_img">Remove images</label>
+		    <input type="submit" name="process" value="True"
+			   id="apply" value="Process" style="display: none">
+		</form>
+		
+		<button id="process"
+			    class="import-button">
+		    Process PDF
+		</button>
+
+		
+		<!-- Legend -->
+		<h3 style="margin-top: 50%">Select highlighted</h3>
+		<div class="legend">
+		    
+		    <div class="legend__box"
+			 id="entities"
+			 name="entity"
+			 style="opacity: 1">
+			<div class="legend__box__color"
+			     style="background-color: darkblue">
+			</div>
+			<div class="legend__box__item">Herbs/Drugs/<br>CYP</div>
+		    </div>
+
+		    <div class="legend__box"
+			 id="studies"
+			 name="study"
+			 style="opacity: 1">
+			<div class="legend__box__color"
+			     style="background-color: mediumvioletred">
+			</div>
+			<div class="legend__box__item">Studies type</div>
+		    </div>
+
+		    <div class="legend__box"
+			 id="parts"
+			 name="part"
+			 style="opacity: 1">
+			<div class="legend__box__color"
+			     style="background-color: orange">
+			</div>
+			<div class="legend__box__item">Plant parts</div>
+		    </div> 
+
+		    <div class="legend__box"
+			 id="concentrations"
+			 name="concentration"
+			 style="opacity: 1">
+			<div class="legend__box__color"
+			     style="background-color: darkgreen">
+			</div>
+			<div class="legend__box__item">Dosis values</div>
+		    </div>
+		    
+		    <div class="legend__box" id="changes" name="change"
+			 style="opacity: 1">
+			<div class="legend__box__color"
+			     style="background-color: darkorchid">
+			</div>
+			<div class="legend__box__item">Percentages</div>
+		    </div>
+		    
+		    <div class="legend__box"
+			 id="modifs"
+			 name="modif"
+			 style="opacity: 1">
+			<div class="legend__box__color"
+			     style="background-color: darkred">
+			</div>
+			<div class="legend__box__item">Modifications</div>
+		    </div>
+		    
+		</div>
+	    </div>
+
+	    
+	    <!-- Right pane of the app -->
+	    <div class="right-pane">
+
+
+		<!-- Header of the app -->
+		<div class="header-box">
+		    <h2 id="title">
+			HDI Highlighter
+		    </h2>
+		    <h2>
+			{{file_name if file_name is not none}}
+		    </h2>
+		</div>
+
+
+		<!-- Tool bar -->
+		<div class="pdf-bar" style="width: 100%">
+		    
+		    <button class="import-button"
+			    id="to_extracted">
+			Extracted
+		    </button>
+		    
+		    <button class="import-button"
+			    id="to_original">
+			Original
+		    </button>
+		    
+		    <div class="slidecontainer">
+			<input type="range" min="5" max="35" value="10"
+			       class="zoom_slider" id="zoom">
+		    </div>
+		    
+		    <button class="tool-button" onclick="change_page(-1)">
+			<
+		    </button>
+		    
+		    <div class="page-counter" id="current_page"></div>
+		    
+		    <div class="page-counter" id="total_pages"></div>
+		    
+		    <button class="tool-button" onclick="change_page(1)">
+			>
+		    </button>
+		    
+		</div>
+
+
+		<!-- Text area -->
+		<div class="text-area" id="extracted_pdf"
+		     style="align-items:center; z-index: 0">
+		    
+		    <div class="viewer-tools">
+
+			<button id="zoom_in"
+				title="Zoom in"
+				class="viewer-tools__button viewer-tools__button--zoom-in">
+			</button>
+
+			<button id="zoom_out"
+				title="Zoom out"
+				class="viewer-tools__button viewer-tools__button--zoom-out">
+			</button>
+
+			<button id="fit_page"
+				title="Fit text to page"
+				class="viewer-tools__button viewer-tools__button--fit-page">
+			</button>
+
+			<button id="selection_tool"
+				title="Toogle text selection"
+				class="viewer-tools__button viewer-tools__button--text-selection">
+			</button>
+			
+		    </div>
+
+		    {{pdf|safe if pdf}}
+			
+		</div>
+		
+		<div class="text-area"
+		     style="display: none"
+		     id="original_pdf">
+		    
+		    <embed src={{file_path + '#zoom=FitH'
+			       if file_path is not none}}
+			   width="100%" height="100%" id="pdf_view"
+			   type="application/pdf">
+		    
+		</div>
+
+		
+		<!-- Terms navigation area -->
+		<div class="match_area" id="terms"
+		     style="height: 0px; border: null">
+		    
+		    <!-- Tab links -->
+		    <div class="tab">
+			
+			<button class="tablinks tab_button"
+				onclick="open_tab(event, 'change')">
+			    Percentages
+			</button>
+			
+			<button class="tablinks tab_button"
+				       onclick="open_tab(event, 'entity')">
+			    Herbs/Drugs/CYP
+			</button>
+			
+			<button class="tablinks tab_button"
+				       onclick="open_tab(event, 'concentration')">
+			    Doses
+			</button>
+			
+			<button class="tablinks tab_button"
+				       onclick="open_tab(event, 'study')">
+			    Studies
+			</button>
+			
+			<button class="tablinks tab_button"
+				       onclick="open_tab(event, 'modif')">
+			    Modifications
+			</button>
+			
+			<button class="tablinks tab_button"
+				       onclick="open_tab(event, 'part')">
+			    Plants parts
+			</button>
+			
+		    </div>
+
+		    
+		    <!-- Tab content -->
+		    {% for category, entities in matches.items() %}
+		    <div id='current_{{ category }}' class="tabcontent">
+			
+			{% for entity, indices in entities.items() %}
+			<div class="term-unit" id="unit_{{category}}_{{loop.index}}">
+			    
+			    <p class="{{category}}_matches">
+				{{ entity }}
+			    </p>
+
+
+			    <!-- Navigation tool -->
+			    <div class="nav_box">
+				<button class="arrow_left" id="previous_term_{{category}}_{{loop.index}}"
+					       onclick="hover_nav(this.id, {{indices| tojson}}, '{{category}}', -1)">
+				</button>
+				
+				<p name="{{category}}"
+				   id="count_{{category}}_{{loop.index}}">
+				    1
+				</p>
+				
+				<p>/</p>
+				
+				<p id=max_{{category}}_{{loop.index}}>
+				    {{ indices|length }}
+				</p>
+				
+				<button class="arrow_right"
+					id="next_term_{{category}}_{{loop.index}}"
+				        onclick="hover_nav(this.id, {{indices| tojson}}, '{{category}}', 1)">
+				</button>
+
+			    </div>
+
+			    
+			</div>
+			{% endfor %}
+			
+		    </div>
+		    {% endfor %}
+
+		    
+		</div>
+
+		
+		<!-- Text boxes switchs -->
+		
+		<button class="import-button"
+			style="width: 25%"
+			id="terms_switch">	
+		    Show terms
+		</button>
+		
+		
+	    </div>
+	    
+	</div>
+
+	<!-- Remove PDF -->
+	{% if file_name %}
+	{% block javascript %}
+	<script>
+	 window.addEventListener('load', () => {
+	     $.getJSON('/clean?param_file={{file_name}}')
+	 });
+	</script>
+        {% endblock %}
+	{% endif %}
+	
+    </body>
+</html>

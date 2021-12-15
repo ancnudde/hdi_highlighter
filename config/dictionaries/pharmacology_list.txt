@@ -1,0 +1,8 @@
+clearance,.PC
+half-life,.PC
+concentration,.PC
+concentrations,.PC
+auc,.PC
+elimination rate,.PC
+activity,.PC
+metabolism,.PC

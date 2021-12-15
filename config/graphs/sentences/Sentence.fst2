@@ -1,0 +1,1419 @@
+0000000006
+-1 Sentence
+: -3 6 -4 5 -5 5 -6 4 24 3 23 3 4 2 3 1 2 1 1 1 
+: 24 10 23 10 14 8 6 9 5 8 4 7 
+: 14 11 
+: 16 12 15 12 
+: 5 13 
+: 6 14 
+: 6 15 
+: 5 11 
+: 37 17 36 17 35 17 34 17 33 17 32 17 30 17 27 17 17 17 13 17 12 17 11 17 10 17 9 17 3 17 2 17 1 16 
+: -3 6 -4 5 -5 5 -6 4 37 17 36 17 35 17 29 21 28 20 16 17 15 19 13 18 12 18 11 18 10 18 9 18 8 18 7 18 3 17 2 17 
+: 6 22 
+: -3 6 -4 5 -5 5 -6 4 24 24 23 24 22 24 21 24 20 24 8 24 7 24 6 23 
+: 13 17 12 17 6 25 
+: -3 6 -4 5 -5 5 -6 4 29 30 28 29 24 26 23 26 22 26 21 26 20 26 19 28 16 27 15 17 8 26 7 26 
+: 3 1 2 1 1 31 
+: 1 4 
+t 1 32 
+t 
+: 4 33 
+t 6 34 3 1 2 1 1 1 
+t 28 17 
+t 29 17 
+: 16 35 15 35 
+: -2 4 -3 6 -4 5 -5 5 -6 4 29 39 28 38 26 37 25 37 19 36 18 17 16 17 
+: -3 6 -4 5 -5 5 -6 4 6 23 
+: 31 41 30 41 29 41 28 41 8 41 1 40 
+: -3 6 -4 5 -5 5 -6 4 29 30 28 29 19 28 16 27 15 17 
+t -3 6 -4 5 -5 5 -6 4 19 36 16 17 15 17 
+: 6 42 
+: -3 6 -4 5 -5 5 -6 4 28 43 19 28 16 27 15 17 
+: -3 6 -4 5 -5 5 -6 4 29 43 19 28 16 27 15 17 
+: 24 10 23 10 14 8 6 9 5 44 4 7 
+: 1 17 
+: 14 11 5 11 
+: 31 46 30 46 29 46 28 46 8 46 1 45 
+: 6 47 
+: 6 48 
+: 5 49 
+: -3 6 -4 5 -5 5 -6 4 28 50 19 36 18 17 16 17 
+: -3 6 -4 5 -5 5 -6 4 29 50 19 36 18 17 16 17 
+: 13 17 12 17 6 3 
+: 6 3 
+: 16 27 
+: -3 6 -4 5 -5 5 -6 4 19 28 16 27 15 17 
+: -3 6 -4 5 -5 5 -6 4 37 17 36 17 35 17 34 17 33 17 32 17 30 17 29 30 28 29 27 17 24 26 23 26 22 26 21 26 20 26 19 28 17 17 16 27 15 17 13 17 12 17 11 17 10 17 9 17 8 26 7 26 3 17 2 17 1 16 
+: -3 6 -4 5 -5 5 -6 4 29 30 28 29 24 26 23 26 22 26 21 26 20 26 19 28 16 27 15 17 8 26 7 26 6 51 
+: 6 51 
+: 13 52 12 52 
+: 16 17 
+: -3 6 -4 5 -5 5 -6 4 27 17 
+: -3 6 -4 5 -5 5 -6 4 19 36 18 17 16 17 
+: 15 19 
+: 24 10 23 10 5 53 4 7 
+: 24 10 23 10 
+f 
+-2 CommonFirstWord
+: 536 2 535 2 534 2 533 2 531 10 530 2 529 2 528 2 527 2 526 2 525 6 524 6 523 6 522 6 521 6 520 6 519 6 518 6 517 6 516 6 515 6 514 6 513 6 512 6 511 6 510 6 509 6 508 6 507 6 506 6 505 6 504 6 503 6 502 6 501 6 500 6 499 6 498 6 497 6 496 6 495 6 494 6 493 6 492 6 491 6 490 6 489 6 488 6 487 6 486 6 485 6 484 6 483 2 482 2 481 2 480 2 479 2 478 2 477 2 476 2 475 2 474 2 473 2 472 2 471 2 470 2 469 2 468 2 467 2 466 2 465 2 464 2 463 2 462 2 461 2 460 2 459 2 458 2 457 2 456 2 455 2 454 2 453 2 452 2 451 2 450 2 449 2 448 2 447 2 446 2 445 2 444 2 443 2 442 2 441 2 440 2 439 2 438 2 437 2 436 2 435 2 434 2 433 2 432 2 431 2 430 2 429 2 428 2 427 2 426 2 425 2 424 2 423 2 422 2 421 2 420 2 419 2 418 2 417 2 416 2 415 2 414 2 413 2 412 2 411 2 410 2 409 2 408 2 407 2 406 2 405 2 404 2 403 2 402 2 401 2 400 2 399 2 398 2 397 2 396 2 395 2 394 2 393 2 392 2 391 2 390 2 389 2 388 2 387 2 386 2 385 2 384 2 383 2 382 2 381 2 380 2 379 2 378 2 377 2 376 2 375 2 374 2 373 2 372 2 371 2 370 2 369 2 368 2 367 2 366 2 365 2 364 2 363 2 362 2 361 2 360 2 359 2 358 2 357 2 356 2 355 2 354 2 353 2 352 2 351 2 350 2 349 2 348 2 347 2 346 2 345 2 344 2 343 2 342 2 341 2 340 2 339 2 338 2 337 2 336 2 335 2 334 2 333 2 332 2 331 2 330 2 329 2 328 2 327 2 326 2 325 2 324 2 323 2 322 2 321 2 320 2 319 2 318 2 317 2 316 2 315 2 314 2 313 2 312 2 311 2 310 2 309 2 308 2 307 2 306 2 305 2 304 2 303 2 302 2 301 2 300 2 299 2 298 2 297 2 296 2 295 2 294 2 293 2 292 2 291 2 290 2 289 2 288 2 287 2 286 2 285 2 284 2 283 2 282 2 281 2 280 2 279 2 278 2 277 2 276 2 275 2 274 2 273 2 272 6 271 6 270 6 269 6 268 6 267 6 266 6 265 6 264 6 263 6 262 6 261 6 260 6 259 6 258 6 257 6 256 6 255 6 254 6 253 6 252 6 251 6 250 6 249 6 248 6 247 6 246 6 245 6 244 6 243 6 242 6 241 6 240 6 239 6 238 6 237 6 236 6 235 6 234 6 233 6 232 6 231 6 230 6 229 6 228 6 227 6 226 6 225 9 224 6 223 6 222 6 221 6 220 6 219 6 218 6 217 6 216 6 215 2 214 2 213 2 212 2 211 2 210 2 209 6 208 6 207 6 206 6 205 6 204 6 203 6 202 6 201 6 200 6 199 6 198 6 197 6 196 6 195 6 194 6 193 6 192 6 191 6 190 6 189 6 188 6 187 6 186 6 185 6 184 6 183 6 182 6 181 6 180 6 179 6 178 6 177 6 176 6 175 6 174 6 173 6 172 6 171 6 170 6 169 6 168 6 167 6 166 6 165 6 164 6 163 6 162 6 161 6 160 6 159 6 157 8 156 6 155 6 154 6 153 6 152 6 151 2 150 2 149 2 148 2 147 2 146 2 145 2 144 2 143 2 142 2 141 2 140 2 139 2 138 2 137 2 136 2 135 2 134 2 133 2 132 2 131 2 129 7 128 2 127 2 126 2 125 2 124 2 123 6 122 6 121 6 120 6 119 6 118 2 117 3 116 2 115 2 114 2 113 2 112 2 111 2 110 2 109 2 108 2 107 2 106 2 105 2 104 2 103 2 102 2 101 2 100 2 99 2 98 2 97 2 96 2 95 2 94 2 93 2 92 2 91 2 90 2 89 2 88 2 87 2 86 2 85 2 84 2 83 2 82 2 81 2 80 2 79 2 78 2 77 2 76 2 75 2 74 2 73 2 72 2 71 2 70 2 69 2 68 2 67 2 66 2 65 2 64 2 63 2 62 2 61 2 60 2 59 2 58 2 57 2 56 2 55 2 54 2 53 2 52 2 51 2 50 2 49 2 45 5 44 4 43 4 42 3 41 3 40 3 39 2 38 2 26 1 
+: 8 11 
+t 
+t 8 12 
+t 8 13 
+t 8 14 
+t 6 15 
+t 130 2 6 15 
+t 158 6 6 15 
+t 8 16 6 15 
+: 8 17 
+: 538 2 537 2 47 2 
+: 46 2 
+: 48 2 
+: 537 2 48 2 
+: 35 2 
+: 46 6 
+: 532 2 
+f 
+-3 Abbreviation
+: 741 2 740 24 739 23 737 2 735 2 734 2 733 22 732 2 731 2 730 2 729 2 728 2 727 2 726 2 725 2 724 21 723 1 722 2 721 2 720 2 719 20 717 19 716 2 715 2 714 2 713 18 712 2 710 17 709 16 706 15 705 2 704 2 703 2 701 14 700 2 699 2 698 2 696 13 695 2 694 2 693 2 692 2 691 2 690 2 689 2 688 2 687 2 686 12 685 11 684 2 683 2 682 10 681 9 680 2 677 8 676 2 675 2 674 2 673 2 672 2 671 2 670 2 669 2 668 2 667 2 666 2 665 2 664 2 663 2 662 2 661 2 660 2 659 2 658 2 657 2 656 2 655 2 654 2 653 2 652 2 651 2 650 2 649 2 648 2 647 2 646 2 645 2 644 2 643 2 642 2 641 2 640 2 639 2 638 2 637 2 636 2 635 2 634 2 633 2 632 2 631 2 630 2 629 2 628 2 627 2 626 2 625 2 624 2 623 2 622 2 621 2 620 2 619 2 618 2 617 2 616 2 615 2 614 2 613 2 612 2 611 2 610 2 609 2 608 2 607 2 606 7 605 2 604 2 603 2 602 7 601 5 600 2 599 6 598 2 597 2 596 2 595 2 594 2 593 2 592 2 591 2 590 2 589 5 588 2 587 5 586 4 585 2 584 2 583 3 582 2 581 2 580 2 579 2 578 2 577 2 576 2 575 2 574 2 573 2 572 2 571 2 570 2 569 2 568 2 567 2 566 2 565 2 564 2 563 2 562 2 561 2 560 2 559 2 558 2 557 2 556 2 555 2 554 2 553 2 552 2 551 2 550 2 549 2 548 2 547 2 546 2 545 2 544 2 543 2 542 2 541 2 540 2 539 2 537 2 46 1 
+: 1 25 
+t 
+: 582 2 1 26 
+: 587 2 
+t 1 27 
+t 1 28 
+: 1 29 
+: 1 30 
+: 30 31 
+: 1 32 
+: 1 33 
+: 1 34 
+: 1 35 
+: 1 36 
+: 1 37 
+: 1 38 
+: 1 39 
+: 1 40 
+: 1 41 
+t 1 42 
+t 1 43 
+: 1 43 
+: 1 24 
+: 726 2 
+: 724 2 
+: 581 2 554 2 
+: 590 2 
+: 592 2 590 2 
+: 588 2 
+: 679 2 678 2 
+: 682 2 
+: 738 2 706 2 
+: 686 2 685 2 
+: 736 44 
+: 713 2 697 2 
+: 702 2 
+: 708 2 707 2 
+: 681 2 
+: 711 2 
+: 46 45 
+: 718 2 
+: 733 2 719 2 46 2 
+: 46 2 
+: 1 46 
+: 1 47 
+: 713 2 
+: 713 48 
+: 1 49 
+: 719 2 
+f 
+-4 AbbreviationEOS
+: 1023 1 1022 1 1021 1 1020 1 1019 1 1018 1 1017 1 1016 50 1015 1 1014 49 1013 48 1012 1 1011 1 1010 1 1009 1 1008 1 1007 1 1006 1 1005 1 1004 1 1003 1 1001 47 1000 1 999 1 998 1 997 1 996 1 995 1 994 1 993 1 992 1 991 1 990 1 989 1 988 1 987 1 986 1 985 1 984 1 983 1 982 1 981 1 980 1 979 1 978 1 977 1 976 1 975 1 974 1 973 1 972 46 971 1 970 1 969 45 968 1 967 1 966 1 964 44 963 43 962 1 961 1 959 42 958 1 957 1 956 1 955 1 954 1 953 1 952 1 951 1 950 1 949 1 948 1 947 1 946 1 945 1 944 1 943 1 942 1 941 1 940 1 939 1 938 1 937 1 935 1 934 1 933 1 932 1 931 1 930 1 929 1 928 1 927 1 926 1 925 1 924 1 923 1 922 1 921 1 920 1 919 1 918 1 917 1 916 1 915 1 914 41 913 1 912 1 911 1 910 1 909 1 908 1 906 40 905 1 904 1 903 1 902 1 901 1 900 1 899 1 898 1 897 37 896 1 895 37 893 39 892 37 891 1 890 1 889 1 886 1 884 1 883 1 882 38 881 1 880 1 879 37 878 37 877 1 876 1 875 1 874 1 873 37 872 36 871 1 870 1 869 1 868 1 867 1 866 1 865 1 864 1 863 1 862 1 861 1 860 1 859 1 858 1 857 1 856 1 855 1 854 1 853 1 852 1 851 35 846 34 841 1 840 1 839 1 837 33 836 1 835 1 834 32 833 1 832 1 831 1 830 1 829 1 828 1 827 31 826 1 825 1 824 30 823 1 822 1 821 1 820 1 819 1 818 1 817 1 816 1 815 1 814 29 813 1 812 1 811 26 810 1 809 1 808 1 807 1 806 1 805 1 804 1 803 1 802 1 801 1 800 1 799 1 798 1 797 1 796 1 795 1 794 28 793 1 792 1 791 1 790 1 789 27 788 1 787 1 786 1 785 26 784 1 783 1 782 1 781 1 780 1 779 1 778 1 777 1 776 1 775 1 774 1 773 1 772 1 771 1 770 1 769 1 768 1 767 1 766 1 765 1 764 1 763 1 762 1 761 1 760 1 759 1 758 1 757 1 756 1 755 1 754 1 753 1 752 1 751 1 750 1 749 1 748 1 747 1 746 1 745 1 744 1 743 1 742 1 736 25 733 1 724 24 719 23 718 1 717 1 713 22 708 21 706 20 697 19 696 18 686 17 685 16 682 15 681 14 680 13 658 12 602 11 581 1 565 10 556 9 547 1 1094 1 1093 1 1091 8 1090 1 1089 1 1088 1 1087 1 1086 1 1085 1 1084 1 1083 1 1082 1 1081 1 1080 1 1079 1 1078 1 1077 1 1076 1 1075 1 1074 1 1072 1 1071 1 1070 1 1069 1 1068 1 1067 1 1066 1 1065 1 1064 1 1063 1 1062 1 1061 1 1060 1 1059 1 1058 1 1057 7 1056 1 31 6 1055 1 1054 5 1053 5 1052 1 1051 1 1050 4 25 3 1049 1 1048 1 1046 2 1045 1 1044 1 1043 1 1042 1 1041 1 1040 1 1039 1 1038 1 1037 1 1036 1 1035 1 1034 1 1033 1 1032 1 1031 1 1030 1 1029 1 1028 1 1027 1 1026 1 1025 1 1024 1 
+t 
+: 1 51 
+t 1 52 
+t 1 53 
+t 1 54 
+: 685 1 
+t 1 55 
+t 1 56 
+: 1 57 
+: 1 58 
+: 1 59 
+: 1 60 
+t 1 61 
+: 30 63 1 62 
+: 1 64 
+t 1 65 
+t 1 66 
+t 1 67 
+: 1 68 
+t 30 69 
+t 1 70 
+t 1 71 
+: 1 72 
+: 1 73 
+: 1 74 
+t 1 75 
+t 1 76 
+t 1 77 
+: 789 1 
+t 1 78 
+: 1 63 
+t 1 79 
+: 1 80 
+t 1 81 
+: 1 82 
+t 1 60 
+: 1 81 
+: 1 83 
+: 1 67 
+: 907 1 899 1 
+t 1 84 
+: 1 85 
+: 1 86 
+: 1 87 
+: 1 88 
+: 1 89 
+: 1 90 
+: 1 54 
+t 1 91 
+: 1 92 
+: 874 1 1047 1 
+: 834 37 706 1 606 1 556 1 
+: 1051 1 
+: 836 1 
+: 622 1 
+: 1092 1 
+: 936 1 837 1 768 94 738 93 706 1 25 1 
+: 894 96 893 95 
+: 708 97 
+: 565 1 
+: 736 98 
+: 855 1 854 1 853 1 852 1 851 1 850 1 849 1 848 1 847 1 846 1 845 1 844 1 843 1 842 1 841 1 840 1 839 1 838 1 837 5 834 1 738 1 708 1 682 100 654 1 576 1 25 99 
+: 738 1 
+: 556 1 
+: 739 102 736 101 
+: 736 103 
+: 723 1 
+: 791 1 
+: 713 1 
+: 606 1 
+: 736 105 1073 104 47 1 
+: 713 1 685 1 532 1 47 1 
+: 696 1 532 1 
+: 914 102 
+: 786 1 
+: 602 106 
+: 679 1 
+: 837 37 
+: 888 1 887 1 706 1 681 1 
+: 706 107 
+: 706 1 
+: 706 1 681 1 556 1 
+: 681 1 
+: 733 1 723 1 719 1 
+: 960 1 
+: 914 1 
+: 965 1 
+: 970 1 
+: 576 1 
+: 1002 1 
+: 874 1 
+: 581 1 
+t 1 1 
+: 1 108 
+: 1 6 
+: 1 109 
+t 1 89 
+: 1 110 
+t 1 111 
+: 1 112 
+: 1 113 
+: 1 114 
+: 1 115 
+: 1 69 
+: 1 116 
+: 1 117 
+t 1 118 
+: 708 119 
+: 708 1 
+: 47 1 
+: 837 1 836 1 
+: 846 1 
+: 733 1 
+: 736 1 
+: 685 1 532 1 
+: 680 1 
+: 874 120 
+: 885 1 
+: 1 118 
+: 1 121 
+: 777 1 
+f 
+-5 UpperCaseLetter
+: 936 1 894 1 885 1 878 1 827 1 824 1 789 1 738 1 709 1 708 1 707 1 706 1 682 1 681 1 606 1 602 1 556 1 1116 1 1115 1 1114 1 1113 1 1112 1 1111 1 1110 1 1109 1 1108 1 1107 1 1106 1 1105 1 1104 1 1103 1 1102 1 1101 1 1100 1 1099 1 1098 1 1097 1 1096 1 1095 1 26 1 25 1 
+t 
+f 
+-6 Interjection
+: 936 2 678 1 477 1 223 1 1150 5 1149 1 1148 1 1147 1 1146 1 1145 1 1144 1 1143 1 1141 4 1140 1 1139 1 1138 1 113 1 1137 1 1136 1 1135 1 1134 1 1133 1 1131 1 1130 1 1129 1 1128 1 1127 1 1126 1 1125 1 1124 3 1123 1 1122 2 1121 2 1120 1 1119 1 1118 1 1117 1 
+: 2 6 
+: 3 7 2 6 
+: 1132 1 3 7 2 6 
+: 1142 1 
+: 3 7 
+t 2 6 
+t 3 7 
+f 
+%<E>
+%.
+%!
+%?
+%<E>/{S}
+@ 
+%#
+%"
+%'
+%’
+%»
+%”
+%)
+%]
+%<^>
+%<MOT>
+%<NB>
+%⟩
+%<PRE>
+%$
+%‘
+%«
+%“
+%[
+%(
+%A
+%I
+%<MIN>
+%-
+%–
+%/
+%&
+%@
+%\
+%§
+%,
+%:
+%;
+%The
+%An
+%It
+%He
+%She
+%They
+%We
+%You
+%s
+%m
+%re
+%Some
+%Many
+%Most
+%More
+%Much
+%Little
+%Less
+%Few
+%Other
+%Each
+%Several
+%Another
+%Such
+%Every
+%Any
+%Various
+%Either
+%Whatever
+%In
+%After
+%On
+%At
+%According
+%From
+%By
+%With
+%But
+%To
+%Despite
+%Among
+%Of
+%Like
+%Unlike
+%Between
+%Upon
+%Along
+%About
+%Throughout
+%Around
+%Without
+%Out
+%Amongst
+%Except
+%Beyond
+%Against
+%Regarding
+%Via
+%Per
+%Off
+%All
+%Others
+%None
+%Nothing
+%Everyone
+%Everything
+%Anyone
+%Nobody
+%Someone
+%Something
+%His
+%Its
+%Her
+%Their
+%Our
+%My
+%Your
+%This
+%These
+%That
+%Those
+%Both
+%And
+%Neither
+%Or
+%Nor
+%Over
+%Under
+%Through
+%Within
+%Up
+%Next
+%to
+%Near
+%Inside
+%Outside
+%Below
+%Towards
+%Above
+%Behind
+%Across
+%Beside
+%Toward
+%Into
+%Underneath
+%For
+%During
+%Since
+%Before
+%Until
+%Till
+%Almost
+%Very
+%Too
+%However
+%Also
+%Thus
+%Then
+%Instead
+%Even
+%so
+%Therefore
+%Furthermore
+%Nevertheless
+%Meanwhile
+%Besides
+%Indeed
+%Rather
+%Moreover
+%Subsequently
+%Consequently
+%Similarly
+%Hence
+%Finally
+%Yet
+%Still
+%Nonetheless
+%Whether
+%Accordingly
+%Likewise
+%Conversely
+%Otherwise
+%Notwithstanding
+%Sometimes
+%Usually
+%Generally
+%Occasionally
+%Frequently
+%Ever
+%Never
+%Always
+%Rarely
+%Firstly
+%Secondly
+%Thirdly
+%Today
+%Soon
+%Early
+%Now
+%Often
+%Again
+%As
+%When
+%While
+%Although
+%If
+%Because
+%Though
+%So
+%Whereas
+%Whenever
+%Unless
+%Not
+%Barely
+%Nearly
+%Quite
+%Somewhat
+%Practically
+%Please
+%Primarily
+%Commonly
+%Officially
+%Essentially
+%Roughly
+%Regardless
+%Well
+%Suddenly
+%There
+%Sometime
+%Afterward
+%Mostly
+%Reportedly
+%Gradually
+%Possibly
+%Actually
+%Formally
+%Unusually
+%Technically
+%Simultaneously
+%Elsewhere
+%Mainly
+%Administratively
+%Virtually
+%Altogether
+%Basically
+%Sadly
+%Internationally
+%Partly
+%Naturally
+%Presumably
+%Surprisingly
+%Ideally
+%Politically
+%Collectively
+%Twice
+%Increasingly
+%Largely
+%Widely
+%Highly
+%Simply
+%Locally
+%Geographically
+%Luckily
+%Midway
+%Incidentally
+%Namely
+%Equivalently
+%Allegedly
+%Literally
+%Supposedly
+%Significantly
+%Beneath
+%Away
+%Just
+%Maybe
+%Later
+%Due
+%Prior
+%Only
+%Born
+%Together
+%Similar
+%Recent
+%Additional
+%Numerous
+%Earlier
+%Subsequent
+%Different
+%Certain
+%Typical
+%Special
+%Nearby
+%Previous
+%Late
+%Contrary
+%Prominent
+%Important
+%Primary
+%Heavy
+%Larger
+%Older
+%Significant
+%Contemporary
+%Extensive
+%Southern
+%Northern
+%Available
+%Lower
+%Successful
+%Adjacent
+%Newer
+%Secondary
+%Poor
+%Upper
+%Critical
+%Possible
+%Effective
+%Far
+%Mining
+%Frequent
+%Actual
+%Founded
+%Located
+%Based
+%Released
+%Built
+%Named
+%Established
+%Given
+%Written
+%Designed
+%Launched
+%Let
+%Created
+%Formed
+%Situated
+%Produced
+%Published
+%Discovered
+%Opened
+%Directed
+%Included
+%Compared
+%Led
+%Inspired
+%Completed
+%Listed
+%Recorded
+%Educated
+%Called
+%Considered
+%Described
+%Had
+%Developed
+%Introduced
+%Was
+%Made
+%Used
+%Owned
+%Started
+%Constructed
+%Raised
+%Combined
+%Held
+%Retrieved
+%Trained
+%Found
+%Noted
+%Assigned
+%Influenced
+%Ignoring
+%Existing
+%Reaching
+%Appearing
+%Lacking
+%Combining
+%Recognizing
+%Calling
+%Traveling
+%Referring
+%Participating
+%Becoming
+%Remaining
+%Doing
+%Performing
+%Keeping
+%Voting
+%Hoping
+%Having
+%Using
+%Starting
+%Depending
+%Working
+%Taking
+%Returning
+%Playing
+%Arriving
+%Running
+%Seeing
+%Moving
+%Operating
+%Growing
+%Featuring
+%Including
+%Speaking
+%Owing
+%Coming
+%Making
+%Continuing
+%Leading
+%Knowing
+%Leaving
+%Living
+%Filming
+%Realizing
+%Serving
+%Going
+%Joining
+%Believing
+%Fearing
+%Standing
+%Assuming
+%Looking
+%Facing
+%Considering
+%Adding
+%Entering
+%Seeking
+%Winning
+%Acting
+%Consisting
+%Fighting
+%Rising
+%Competing
+%Citing
+%Increasing
+%Originating
+%Composed
+%Married
+%Faced
+%Played
+%Promoted
+%Selected
+%Commissioned
+%Increased
+%Appointed
+%Featured
+%Limited
+%Armed
+%Signed
+%Supported
+%Filmed
+%Photographed
+%Organized
+%Bred
+%Entitled
+%Equipped
+%Titled
+%Related
+%Renamed
+%Advanced
+%Asked
+%Deployed
+%Aged
+%Impressed
+%Intended
+%Dubbed
+%Encouraged
+%Operated
+%Edited
+%Translated
+%Begun
+%Associated
+%Dedicated
+%Attached
+%Presented
+%Forced
+%Accompanied
+%Detailed
+%What
+%Where
+%How
+%Which
+%Why
+%Who
+%Whose
+%Probably
+%Certainly
+%Clearly
+%Obviously
+%Originally
+%Once
+%Currently
+%Here
+%Additionally
+%Initially
+%Shortly
+%Eventually
+%Unfortunately
+%Further
+%Previously
+%Typically
+%Recently
+%Apart
+%Approximately
+%Perhaps
+%Traditionally
+%Historically
+%Specifically
+%Formerly
+%Afterwards
+%Aside
+%Immediately
+%Thereafter
+%Overall
+%Ultimately
+%Ironically
+%Notably
+%Nowadays
+%Alternatively
+%Apparently
+%Normally
+%Especially
+%Already
+%Particularly
+%Interestingly
+%Presently
+%Fortunately
+%Are
+%Can
+%Could
+%Did
+%Does
+%Doesn
+%t
+%Be
+%Do
+%Have
+%Would
+%ll
+%ve
+%Apr
+%Aug
+%Dec
+%Feb
+%Jan
+%Jul
+%Jun
+%Mar
+%May
+%Nov
+%Oct
+%Sep
+%Sept
+%Dr
+%Esq
+%Hon
+%Judg
+%M
+%Messrs
+%Mssrs
+%Miss
+%Mlle
+%Mme
+%Mr
+%Mrs
+%Ms
+%Prof
+%Profs
+%Rep
+%Sen
+%Sir
+%Sra
+%Srta
+%Abp
+%Archip
+%Bp
+%Br
+%Ch
+%Chapln
+%Fr
+%Mgr
+%Msgr
+%Rev
+%Revd
+%Rt
+%St
+%Sta
+%2
+%Lt
+%Adm
+%Brig
+%Gen
+%Capt
+%Col
+%Cpl
+%Cmdr
+%Comdr
+%Comdrs
+%Cpt
+%Gnrl
+%Lieut
+%Ltg
+%Maj
+%R
+%Sgt
+%Sgts
+%Srgt
+%V
+%Amb
+%Chan
+%Gov
+%Govs
+%Pres
+%Reps
+%Sens
+%Abig
+%Abr
+%Agn
+%Alf
+%Art
+%Barb
+%Benj
+%Brid
+%Cath
+%Clem
+%Dav
+%Deb
+%Den
+%Doug
+%Edm
+%Edw
+%Eliz
+%Esth
+%Fred
+%Gab
+%Geo
+%Geof
+%Godf
+%Han
+%Hel
+%Hen
+%Ioh
+%Isb
+%Jer
+%Jos
+%Jud
+%Lau
+%Lawr
+%Mau
+%Mich
+%Mill
+%Nath
+%Nich
+%Pat
+%Pen
+%Phil
+%Phin
+%Phyl
+%Reb
+%Reg
+%Ric
+%Rog
+%Sar
+%Silv
+%Sim
+%Sol
+%Sus
+%Theo
+%Tim
+%Val
+%Mt
+%Mts
+%abbr
+%abbrev
+%Abstr
+%acct
+%appx
+%appxs
+%at
+%no
+%wt
+%b
+%B
+%P
+%bap
+%bp
+%c
+%f
+%chap
+%Conf
+%Congr
+%contr
+%dwt
+%exc
+%ff
+%fol
+%fols
+%i
+%e
+%ibid
+%Ibid
+%l
+%Man
+%Dir
+%Cap
+%cap
+%cca
+%D
+%G
+%C
+%N
+%nem
+%con
+%viz
+%a
+%masc
+%No
+%nos
+%op
+%cit
+%p
+%per
+%pp
+%Prop
+%q
+%v
+%rec
+%ref
+%vs
+%Brnss
+%Bt
+%Cntss
+%Ven
+%Attn
+%d
+%enc
+%encl
+%o
+%facs
+%S
+%w
+%x
+%Yrs
+%Fri
+%Mon
+%Sat
+%Sun
+%Thu
+%Thur
+%Thurs
+%Tue
+%Wed
+%Jr
+%Sr
+%Assn
+%Assoc
+%Atty
+%Bros
+%Co
+%Corp
+%Cie
+%Dept
+%Exec
+%Fnd
+%Fndn
+%Grp
+%Inc
+%Ind
+%Indsl
+%Inst
+%Int
+%Internat
+%Intl
+%Ltd
+%Priv
+%Pty
+%Pub
+%Pvt
+%Soc
+%alt
+%Btu
+%cal
+%cc
+%cd
+%ct
+%cu
+%cub
+%ft
+%cwt
+%deg
+%F
+%Fahr
+%g
+%gal
+%gm
+%gr
+%Hor
+%hp
+%in
+%kt
+%Lat
+%lb
+%lbs
+%lit
+%lt
+%min
+%mos
+%msec
+%oz
+%pop
+%sec
+%secs
+%sq
+%yd
+%yrs
+%°
+%acad
+%av
+%ave
+%bldg
+%blvd
+%co
+%dist
+%div
+%fl
+%L
+%rte
+%Calif
+%U
+%rd
+%ctr
+%univ
+%BC
+%bef
+%ult
+%Mus
+%Acad
+%Econ
+%Sc
+%Acc
+%Arch
+%Com
+%Comm
+%CompSc
+%CS
+%Des
+%Ec
+%Ed
+%InfSci
+%InfTech
+%Lang
+%Lit
+%LL
+%Math
+%Pharm
+%Psych
+%Tech
+%BCE
+%BCh
+%BChir
+%BCL
+%BCnL
+%BCom
+%BD
+%BEng
+%BL
+%BLitt
+%BM
+%BMus
+%BS
+%BTh
+%DTh
+%DU
+%Emer
+%Eng
+%Hist
+%FEng
+%grad
+%Ing
+%J
+%Litt
+%LittB
+%LittD
+%Ll
+%LLA
+%LLB
+%E
+%MPhil
+%Bac
+%Doc
+%MusB
+%MusBac
+%MusD
+%Ph
+%h
+%H
+%Psy
+%Ret
+%Rh
+%ScD
+%al
+%bf
+%ed
+%eds
+%ep
+%epp
+%equiv
+%et
+%seq
+%fem
+%fig
+%Fig
+%figs
+%Figs
+%incl
+%n
+%nn
+%obs
+%Obs
+%Op
+%prox
+%Rec
+%Ref
+%sig
+%sigs
+%superl
+%suppl
+%suppls
+%vol
+%vols
+%vv
+%ca
+%cf
+%CV
+%DG
+%Diagn
+%ead
+%O
+%abl
+%acc
+%Adj
+%adj
+%adv
+%advb
+%Anc
+%app
+%art
+%attrib
+%aug
+%coll
+%conj
+%dim
+%freq
+%int
+%interj
+%intr
+%pl
+%refl
+%sing
+%subj
+%subord
+%cl
+%suff
+%trans
+%vb
+%vbl
+%sb
+%admin
+%Agric
+%Alg
+%Anal
+%Geom
+%Anat
+%Angl
+%Anthrop
+%Anthropol
+%Arith
+%assoc
+%astrol
+%Astrol
+%Astron
+%Astronaut
+%Autobiogr
+%Bib
+%bibl
+%biblio
+%Bibliog
+%Bibliogr
+%biochem
+%bot
+%br
+%Brit
+%Bull
+%Chem
+%Chr
+%Chron
+%Chronol
+%Cinemat
+%Cinematogr
+%Coll
+%Comms
+%Communic
+%Con
+%Sect
+%Conc
+%Contrib
+%Corr
+%Crim
+%Crit
+%Cycl
+%Cytol
+%dem
+%dict
+%diss
+%Dom
+%Eccl
+%Ecclus
+%Eclec
+%Ecol
+%edn
+%Educ
+%Elect
+%Electr
+%Elem
+%Encyc
+%eng
+%Ent
+%Entomol
+%Eph
+%Ephes
+%Ethnol
+%etym
+%etymol
+%Ex
+%Exod
+%Fund
+%Govt
+%Histol
+%Illustr
+%Jrnl
+%Mag
+%Magn
+%Managem
+%Mech
+%mfg
+%Mgmt
+%Myth
+%Nat
+%ord
+%Palaeont
+%Paleon
+%Phys
+%Sci
+%Poet
+%Pol
+%Polit
+%Psychol
+%Publ
+%Rom
+%Sch
+%Sel
+%Sociol
+%Techn
+%Technol
+%Theol
+%Theoret
+%tr
+%Trans
+%Trig
+%Trop
+%Typog
+%Zoogeogr
+%Zool
+%Zoöl
+%k
+%absol
+%act
+%ad
+%Adv
+%Advt
+%Antiq
+%aor
+%App
+%Appl
+%Applic
+%appos
+%approx
+%Civ
+%comp
+%cpd
+%cv
+%Disp
+%exh
+%cat
+%fec
+%var
+%À
+%Â
+%Ä
+%Ç
+%Î
+%Ï
+%K
+%Ô
+%Ö
+%É
+%È
+%Ê
+%Ë
+%Q
+%T
+%Ù
+%Û
+%Ü
+%W
+%X
+%Y
+%Z
+%Aa
+%Aha
+%Ha
+%Agh
+%Ah
+%Huh
+%Humph
+%Oh
+%Ouch
+%Ugh
+%Uh
+%Hi
+%Ho
+%Hello
+%Oho
+%dear
+%wow
+%Hark
+%ay
+%Hey
+%nuts
+%Amen
+%damn
+%darn
+%Sit
+%down
+%Bam
+%Hmm
+%Wham
+%shoot
+%hist
+%See
+%God
+%Eh
+f

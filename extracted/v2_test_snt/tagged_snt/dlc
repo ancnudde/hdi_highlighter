@@ -1,0 +1,89 @@
+behavioral sciences,behavioral science.N+XN+z1:p
+in vitro,.A+2X+z1
+drug interactions,drug interaction.N+XN+z1:p
+in vitro,.A+2X+z1
+in vivo,.A+2X+z1
+study results,study result.N+XN+z1:p
+systemic circulation,.N+XN+z1:s
+liver disease,.N+XN+z1:s
+liver diseases,liver disease.N+XN+z1:p
+United States,.N+XN+z1:p
+chemical carcinogens,chemical carcinogen.N+XN+Conc+z1:p
+fatty acids,fatty acid.N+XN+Conc+z1:p
+National Institutes of Health,.N+XNPX+HumColl+z1:p
+alternative medicine,.N+XN+z1:s
+clinical study,.N+XN+z1:s
+clinical research,.N+XN+z1:s
+research center,.N+XN+z1:s
+blood count,.N+XN+z1:s
+confidence interval,.N+XN+z1:s
+hepatitis C,.N+XN+NX+z1:s
+liquid chromatography,.N+XN+z1:s
+order of magnitude,.N+NPN+z1:s
+biologically active,.A+z1
+informed consent,.N+XN+z1:s
+medical history,.N+XN+z1:s
+physical examination,.N+XN+z1:s
+blood counts,blood count.N+XN+z1:p
+pregnancy test,.N+XN+z1:s
+over-the-counter,.A+3X+z1
+study period,.N+XN+z1:s
+tap water,.N+XN+Conc+z1:s
+blood samples,blood sample.N+XN+Conc+z1:p
+blister packs,blister pack.N+XN+z1:p
+follow-up,.A+z1
+follow-up,.N+XN+z1:s
+follow-up,.A+z1
+follow-up,.N+XN+z1:s
+mass spectrometer,.N+XN+Conc+z1:s
+formic acid,.N+XN+Conc+z1:s
+ethyl ether,.N+XN+z1:s
+chain reaction,.N+XN+z1:s
+deoxyribonucleic acid,.N+XN+z1:s
+Taq polymerase,.N+XN+Conc+z1:s
+Food and Drug Administration,.N+XPXN+z1:s
+Health and Human services,Health and Human service.N+3XN+z1:p
+adverse event,.N+XN+z1:s
+drug interactions,drug interaction.N+XN+z1:p
+side effects,side effect.N+XN+z1:p
+inhibitory effect,.N+XN+z1:s
+prostate cancer,.N+XN+z1:s
+cancer patients,cancer patient.N+XN+Hum+z1:p
+human immunodeficiency virus,.N+2XN+Conc+z1:s
+data analysis,.N+XN+z1:s
+inhibitory effects,inhibitory effect.N+XN+z1:p
+new drugs,new drug.N+XN+z1:p
+black cohosh,.N+XN+z1:s
+in vivo,.A+2X+z1
+saw palmetto,.N+XN+z1:s
+cancer research,.N+XN+z1:s
+basic research,.N+XN+z1:s
+chronic hepatitis,.N+XN+z1:s
+drug interactions,drug interaction.N+XN+z1:p
+herbal medicines,herbal medicine.N+XN+Conc+z1:p
+drug interaction,.N+XN+z1:s
+data analysis,.N+XN+z1:s
+pilot study,.N+XN+z1:s
+gene expression,.N+XN+z1:s
+genetic variation,.N+XN+z1:s
+E-mail,.N+XN+z1:s
+milk thistle,.N+Herb
+silybum marianum,.N+Herb
+milk thistle,.N+Herb
+milk thistle,.N+Herb
+black cohosh,.N+Herb
+cimicifuga racemosa,.N+Herb
+citrus aurantium,.N+Herb
+echinacea purpurea,.N+Herb
+saw palmetto,.N+Herb
+hypericum perforatum,.N+Herb
+cyp1a2,1a2.TAR
+cyp2c9,2c9.TAR
+cyp2d6,2d6.TAR
+cyp3a4,3a4.TAR
+cyp2e1,2e1.TAR
+cyp2c8,2c8.TAR
+cyp2b6,2b6.TAR
+cyp2c19,2c19.TAR
+-fold,.FOLD
+ng/ml,.N+CONC

@@ -1,0 +1,108 @@
+global:
+  debug: 0
+  log: null
+  persistence: true
+  verbose: 0
+  virtualization: false
+resources:
+  alphabet: config/Alphabet.txt
+  alphabet-sorted: config/Alphabet_sort.txt
+  dictionaries:
+  - config/dictionaries/dela-en-public.bin
+  #- /home/anthony/Unitex-GramLab-3.2/English/Dela/Dnum-ord.fst2
+  #- /home/anthony/Unitex-GramLab-3.2/English/Dela/Dnum.fst2
+  - config/dictionaries/drugs_list.bin
+  - config/dictionaries/plants_list.bin
+  - config/dictionaries/cyp_list.bin
+  - config/dictionaries/herb_parts.bin
+  - config/dictionaries/modifier.bin
+  - config/dictionaries/pharmacology_list.bin
+  - config/dictionaries/concentrations.bin
+  language: en
+  replace: config/graphs/Replace.fst2
+  sentence: config/graphs/sentences/Sentence.fst2
+tools:
+  check_dic:
+    no_space_warning: false
+    strict: false
+  compress:
+    flip: false
+    output: null
+    semitic: false
+    version: v2
+  concord:
+    directory: null
+    font: null
+    fontsize: null
+    format: merge
+    output: tagged.txt
+    left: '0'
+    offsets: null
+    only_ambiguous: false
+    only_matches: false
+    right: '0'
+    script: null
+    sort: TO
+    thai: false
+    unxmlize: null
+  dico:
+    arabic_rules: null
+    korean: false
+    morpho: null
+    raw: null
+    semitic: false
+  extract:
+    non_matching_sentences: false
+  fst2txt:
+    merge: true
+    start_on_space: false
+    word_by_word: false
+  grf2fst2:
+    char_by_char: false
+    check_variables: true
+    debug: false
+    loop_check: false
+    named_repository: null
+    no_empty_graph_warning: false
+    pkgdir: null
+    silent_grf_name: true
+    tfst_check: false
+  locate:
+    ambiguous_outputs: true
+    arabic_rules: null
+    char_by_char: false
+    korean: false
+    match_mode: longest
+    morpho: null
+    negation_operator: tilde
+    number_of_matches: null
+    output_mode: replace
+    protect_dic_chars: true
+    sntdir: null
+    start_on_space: false
+    stop_token_count: null
+    variable: null
+    variable_error: ignore
+  normalize:
+    input_offsets: null
+    no_carriage_return: false
+    no_separator_normalization: false
+    output_offsets: null
+    replacement_rules: null
+  sort_txt:
+    duplicates: false
+    factorize_inflectional_codes: false
+    line_info: null
+    revers: false
+    sort_order: null
+    thai: false
+  tokenize:
+    char_by_char: false
+    input_offsets: null
+    output_offsets: null
+    tokens: null
+  txt2fst:
+    clean: false
+    korean: false
+    normalization_grammar: null
+    tagset: null
