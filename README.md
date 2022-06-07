@@ -30,6 +30,7 @@ HDI-Highlighter uses automatons generated using Unitex/Gramlab (https://github.c
 
 - Python 3
 - PyMuPDF
+- python-unitex
 - Unidecode
 - Flask
 - Flaskwebgui
