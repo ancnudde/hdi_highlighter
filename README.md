@@ -39,7 +39,11 @@ HDI-Highlighter uses automatons generated using Unitex/Gramlab (https://github.c
 ## Use
 
 In a terminal, go to hdi highlighter folder:
+
   cd path/to/hdi_higlighter 
+  
 Run gui.py to start a local server:
+
   python gui.py
+  
 A message in the terminal will give you the adress of the local server. Copy the link and open it in any browser.
